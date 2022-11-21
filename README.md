@@ -1,6 +1,6 @@
 # Most (24 h) recent research paper 
 
-Ce projet consiste à developper un web app qui permet de consulter les denières articles publiés sur arxiV.
+Ce projet consiste à developper un web app (utilisant un algo de deep learning) qui permet de consulter les denières articles publiés sur arxiV.
 
 ## Periodic scripts
 
